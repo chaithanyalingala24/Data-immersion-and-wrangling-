@@ -26,7 +26,7 @@ Finally, the cleaned dataset was saved as a new CSV file.
 7. Save cleaned dataset
 
 ## Files Included
-data immersion &wrangling project -> complete code <br>
+data immersion & wrangling project -> complete code <br>
 student_data.csv → Original dataset <br>
 cleaned student_data.csv → Cleaned dataset <br>
 README.md → Project documentation
