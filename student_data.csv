@@ -1,0 +1,16 @@
+Student_ID,Name,Age,Gender,Course,Marks,City
+101,Rahul,20,Male,Data Science,85,Hyderabad
+102,Priya,21,Female,Python,90,Chennai
+103,Amit,,Male,Machine Learning,78,Bangalore
+104,Sneha,22,Female,,88,Mumbai
+105,Ravi,20,Male,Data Science,,Delhi
+106,Anjali,21,Female,Python,92,
+107,Kiran,23,Male,AI,75,Pune
+108,Pooja,,Female,Machine Learning,80,Hyderabad
+109,Arjun,22,Male,Data Science,85,Chennai
+110,Meena,21,Female,Python,91,Bangalore
+105,Ravi,20,Male,Data Science,,Delhi
+108,Pooja,,Female,Machine Learning,80,Hyderabad
+111,,22,Male,AI,77,Mumbai
+112,Divya,20,Female,Python,,Pune
+113,Rohan,23,Male,,82,
