@@ -4,11 +4,11 @@
 This project is about understanding and cleaning data using Python. The main goal is to convert raw data into a clean and organized format for better analysis
 
 ## Tools & Technologies Used
-Python
-Pandas
-NumPy
-Jupyter Notebook
-CSV File Format
+Python <br>
+Pandas <br>
+NumPy <br>
+Jupyter Notebook <br>
+CSV File Format 
 
 ## How It Worked
 The project started by loading the dataset into Python using Pandas.
